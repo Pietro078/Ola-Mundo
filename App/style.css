@@ -1,4 +1,9 @@
-body{
-    background-color: rgb(176, 255, 255);
+
+
+div{
+    display: block;
+    background-color: aquamarine;
     border-radius: 30px;
+    width: 60vw;
+    height: 70vh;
 }
